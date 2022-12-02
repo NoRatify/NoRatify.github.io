@@ -38273,7 +38273,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -104px 0 60px auto;
+  margin: -104px 0 68px auto;
 }
 
 .u-header .u-nav-1 {
@@ -38320,7 +38320,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 211px;
+    min-height: 250px;
   }
 
   .u-header .u-image-1 {
@@ -38335,8 +38335,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -149px;
-    margin-bottom: 117px;
+    margin-top: -176px;
+    margin-bottom: 60px;
   }
 }
  .u-footer {
