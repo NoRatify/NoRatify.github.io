@@ -38303,7 +38303,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-text-1 {
-    margin-left: 101px;
+    width: auto;
+    margin-top: -66px;
+    margin-left: 26px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -172px;
   }
 }
  .u-footer {
