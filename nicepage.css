@@ -38319,14 +38319,24 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 211px;
+  }
+
+  .u-header .u-image-1 {
+    width: 64px;
+    margin-top: 26px;
+  }
+
   .u-header .u-text-1 {
-    margin-top: -66px;
-    margin-left: 26px;
+    margin-top: -94px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -172px;
-    margin-bottom: 140px;
+    margin-top: -149px;
+    margin-bottom: 117px;
   }
 }
  .u-footer {
