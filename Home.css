@@ -425,7 +425,7 @@
     margin-left: 20px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 601px;
 }
 
 .u-section-4 .u-text-1 {
@@ -444,9 +444,7 @@
 }
 
 .u-section-4 .u-text-4 {
-  margin-left: 0;
-  margin-right: 480px;
-  margin-bottom: 60px;
+  margin: 0 480px 60px 50px;
 }
 
 @media (max-width: 1199px) {
@@ -487,6 +485,7 @@
   }
 
   .u-section-4 .u-text-4 {
+    margin-left: 0;
     margin-right: 0;
   }
 }
@@ -505,7 +504,6 @@
 
   .u-section-4 .u-text-4 {
     width: auto;
-    margin-top: 0;
     margin-left: 20px;
   }
 }.u-section-5 .u-sheet-1 {
