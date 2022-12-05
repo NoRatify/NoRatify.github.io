@@ -10,6 +10,11 @@
   margin: 20px 480px 60px 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
     margin-right: 280px;
